@@ -1,10 +1,10 @@
 <h2 align="center"> Greetings 👋 </h2>
 <hr>
 
-I'm Vipin Uniyal, currently pursuing post graduation from Central University of Rajasthan in Computer Science (Big Data Analytics).
+I'm currently pursuing Master's in Computer Science (Big Data Analytics) from Central University of Rajasthan.
 <br><br>
-Having started coding at an early age and also having completed my Bachelor’s, I can say my interest in this field has only grown with time. I gravitate more towards Data Science and Data Analysis.<br><br>
-I have worked on a variety of data science projects, which include Data Analysis, Price Prediction, Visualization, and implementing machine learning pipelines. 
+I have done some Machine Learning and Data Analytics projects.<br><br>
+I have been working on new projects based on Credit Risk Modelling and Time Sereies Analysis.
 <br><br>
 
 
