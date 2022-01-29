@@ -20,6 +20,6 @@ I have been working on new projects based on Credit Risk Modelling and Time Sere
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Vipin-Uniyal&repo=Spam-Classifier&show_owner=true)](https://github.com/Vipin-Uniyal/Spam-Classifier)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Vipin-Uniyal&repo=Flight-Fare-Prediction&show_owner=true)](https://github.com/Vipin-Uniyal/Flight-Fare-Prediction)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Vipin-Uniyal&repo=olympics-data-analysis&show_owner=true)](https://github.com/Vipin-Uniyal/olympics-data-analysis)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Vipin-Uniyal&repo=Bengluru-House-Price-Prediction&show_owner=true)](https://github.com/Vipin-Uniyal/Bengluru-House-Price-Prediction)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Vipin-Uniyal&repo=Bengluru-House-Price-Prediction&show_owner=true)](https://github.com/Vipin-Uniyal/Bengluru-House-Price-Prediction) 
 
 
