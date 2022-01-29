@@ -15,7 +15,6 @@ I have been working on new projects based on Credit Risk Modelling and Time Sere
   
 <hr>
 
-
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Vipin-Uniyal&repo=Movie-Recommendation-System&show_owner=true)](https://github.com/Vipin-Uniyal/Movie-Recommendation-System)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Vipin-Uniyal&repo=Spam-Classifier&show_owner=true)](https://github.com/Vipin-Uniyal/Spam-Classifier)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Vipin-Uniyal&repo=Flight-Fare-Prediction&show_owner=true)](https://github.com/Vipin-Uniyal/Flight-Fare-Prediction)
