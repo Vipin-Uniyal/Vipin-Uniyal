@@ -4,7 +4,7 @@
 I'm currently pursuing Master's in Computer Science (Big Data Analytics) from Central University of Rajasthan.
 <br><br>
 I have done some Machine Learning and Data Analytics projects.<br><br>
-I have been working on new projects based on Credit Risk Modelling and Time Sereies Analysis.
+I have been working on new projects based on Credit Risk Modelling and Time Series Analysis.
 <br><br>
 
 
